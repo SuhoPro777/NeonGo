@@ -7,7 +7,7 @@ Yuqori unumdorlikli runtime, mikroservis ishga tushiruvchi va task ijro qatlamı
 
 ## O'rnatish
 ```bash
-pip install neongo
+pip install https://github.com/SuhoPro777/NeonGo.git
 ```
 
 ## Ishlatish
